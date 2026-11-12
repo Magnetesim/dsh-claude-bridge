@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Claude 桥接",
+    "description": "仅限本机回环的 HTTP API，让本机外部代理在此 Web 界面中创建、发送并观察 DeepSeek 会话。"
+  }
+}

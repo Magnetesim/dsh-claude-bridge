@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Claude Bridge">
+  <rect width="64" height="64" rx="14" fill="#1f2233"/>
+  <path d="M12 40c6-12 16-18 20-18s14 6 20 18" fill="none" stroke="#8ab4ff" stroke-width="4" stroke-linecap="round"/>
+  <path d="M12 40h8M44 40h8" stroke="#8ab4ff" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="12" cy="40" r="6" fill="#f2f4ff"/>
+  <circle cx="52" cy="40" r="6" fill="#f2f4ff"/>
+  <circle cx="32" cy="22" r="5" fill="#ffd479"/>
+  <path d="M32 27v9" stroke="#ffd479" stroke-width="3" stroke-linecap="round"/>
+</svg>

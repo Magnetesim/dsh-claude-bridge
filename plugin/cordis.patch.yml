@@ -1,0 +1,7 @@
+# dsh-claude-bridge bundle patch: one Host row in the web profile.
+# The package is linked into the profile by `plugin_manager install_bundle`;
+# the row name is the package name.
+- insert:
+    - id: claude-bridge
+      name: dsh-claude-bridge
+      config: {}

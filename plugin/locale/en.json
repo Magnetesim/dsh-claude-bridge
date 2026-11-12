@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Claude Bridge",
+    "description": "Loopback HTTP API that lets a local external agent start, prompt, and observe DeepSeek sessions in this web GUI."
+  }
+}
